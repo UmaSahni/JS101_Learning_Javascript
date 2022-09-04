@@ -1,0 +1,10 @@
+let one= 1;
+let two = 2;
+let three = 3;
+let four = 4;
+let five = 5;
+let six = 6;
+let double = (2 * (two + five + six));
+let triple = (3*(three + four));
+let sum = (double + triple + one);
+console.log("Sum of the updated values =", sum);
